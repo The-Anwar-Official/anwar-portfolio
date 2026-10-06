@@ -18,13 +18,18 @@ const projects = [
     linkText: "Project Details →",
   },
   {
-    title: "Career Management API",
+    title: "Anwar Learner — WordPress Website & Blog",
     description:
-      "A planned backend project focused on Java, REST APIs, database management, authentication, and career-related data.",
-    technologies: ["Java", "Spring Boot", "MySQL"],
-    status: "Coming Soon",
-    link: "#contact",
-    linkText: "Coming Soon →",
+      "A WordPress-based developer portfolio and blog used to showcase projects, technical learning, and development work.",
+    technologies: [
+      "WordPress",
+      "Blogging",
+      "Responsive Web Design",
+      "Content Management",
+    ],
+    status: "Completed",
+    link: "https://anwarlearner.blog",
+    linkText: "Visit Website →",
   },
 ];
 
